@@ -24,7 +24,7 @@ The code (`saudi_arabia_v1.py`) analyzes F1 race data from the 2025 season (Bahr
 Make sure you have the following Python packages installed:
 
 ```bash
-pip install fastf1 pandas numpy matplotlib seaborn scikit-learn cairosvg
+pip install fastf1 pandas numpy matplotlib seaborn scikit-learn 
 ```
 
 > `FastF1` requires `tqdm`, `requests`, and access to internet (for live/historical session data). You may need to install FFMPEG for caching to work smoothly.
