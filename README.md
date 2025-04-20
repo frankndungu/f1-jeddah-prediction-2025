@@ -92,24 +92,6 @@ Average predicted position and points per team.
 
 ![Team Performance](team_performance_2025_saudi_gp.png)
 
-#### Circuit Overview with Top Drivers
-
-Custom Jeddah Corniche track map with top 5 drivers placed.
-
-![Track Prediction](saudi_gp_track_prediction_2025.png)
-
-#### Drivers to Watch
-
-Top 5 drivers expected to improve the most from grid to finish.
-
-![Drivers to Watch](saudi_gp_drivers_to_watch_2025.png)
-
-#### Podium Probability
-
-Chance of each driver making it to the podium.
-
-![Podium Probability](saudi_gp_podium_probability_2025.png)
-
 ---
 
 ## How to Run
